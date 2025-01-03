@@ -1,0 +1,20 @@
+# Data manipulation and analysis
+pandas==1.5.3
+
+# Visualization libraries
+matplotlib==3.7.0
+seaborn==0.12.2
+
+# Google API Client for YouTube Data API
+google-api-python-client==2.85.0
+
+# Google Auth and authentication libraries (for accessing Google APIs)
+google-auth==2.21.0
+google-auth-httplib2==0.2.1
+google-auth-oauthlib==0.7.0
+
+# Google Colab specific libraries (if you're using Google Colab for analysis)
+google-colab==1.0.0
+
+# For CSV file handling and other utilities
+numpy==1.24.0
