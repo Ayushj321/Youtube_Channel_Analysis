@@ -10,7 +10,7 @@ This project performs an analysis of YouTube channel data and video details usin
 - [Visualization](#visualization)
 - [Data Export](#data-export)
 - [Contributing](#contributing)
-- [Google Colab Link for Project](#ColabLink)
+- [Google Colab Link for project](#ColabLink)
 
 ## Project Overview
 
@@ -135,7 +135,7 @@ Contributions to this project are welcome. If you'd like to contribute, please f
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new pull request
 
-## Google Collab Link for project - 
+## Google Colab Link for project 
 
 https://colab.research.google.com/drive/1p5sk5FNE369IXA_IMqhd2UQ7WigsqEH0?usp=drive_link
 
